@@ -7,7 +7,7 @@
 
   <!-- 方案 A: 简单的二次元欢迎语和动态图 -->
   <h1>✨ 欢迎来到我的二次元小窝! ✨</h1>
-  <img src="dec.gif" width="200" align="center" />
+  <img src="https://user-images.githubusercontent.com/73059627/..." width="200" align="center" />
 
   <p>这里是 <strong>kerriemontgomery10861-debug</strong> 的代码世界~</p>
 
@@ -25,7 +25,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/summerscar/my-cdn@main/live2d-widget/demo/live2d_model/haru/texture/default.png" width="150" style="border-radius: 20px; border: 5px solid #ffc0cb;" />
+        <img src="dec.gif" width="200" align="center" />
         <br>
         <sub>你好呀！我是看板娘 Haru ~</sub>
       </td>
