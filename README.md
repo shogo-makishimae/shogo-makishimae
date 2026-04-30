@@ -14,7 +14,7 @@
   <!-- 二次元风格徽章 -->
   <p>
     <img src="https://img.shields.io/badge/当前状态-摸鱼中-ff69b4?style=for-the-badge&logo=slack&logoColor=white" />
-    <img src="https://img.shields.io/badge/最爱语言-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/最爱语言-Python-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/心情-开心-ffb7b7?style=for-the-badge&logo=hellofresh&logoColor=red" />
   </p>
 
