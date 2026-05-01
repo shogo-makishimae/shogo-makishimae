@@ -9,7 +9,7 @@
   <h1>✨ 欢迎 ✨</h1>
   <img src="dec1.gif" width="200" align="center" />
 
-  <p>这里是 <strong>kerriemontgomery10861-debug</strong> 的代码世界~</p>
+  <p>这里是 <strong>kerriemontgomery</strong> 的代码世界~</p>
 
   <!-- 二次元风格徽章 -->
   <p>
@@ -27,7 +27,6 @@
       <td align="center">
         <img src="dec.gif" width="200" align="center" />
         <br>
-        <sub>你好呀！我是看板娘 Haru ~</sub>
       </td>
       <td align="left">
         <h3>关于我</h3>
