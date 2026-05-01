@@ -6,7 +6,7 @@
        最稳妥的方式是使用第三方提供的 README 专用挂件或图片。 -->
 
   <!-- 方案 A: 简单的二次元欢迎语和动态图 -->
-  <h1>✨ 欢迎来到我的二次元小窝! ✨</h1>
+  <h1>✨ 欢迎 ✨</h1>
   <img src="dec1.gif" width="200" align="center" />
 
   <p>这里是 <strong>kerriemontgomery10861-debug</strong> 的代码世界~</p>
